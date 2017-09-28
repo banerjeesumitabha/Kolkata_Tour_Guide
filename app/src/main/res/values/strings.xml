@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kolkata Tour Guide</string>
+
+    <string name="category_attractions">Attractions</string>
+
+    <string name="category_nature">Nature</string>
+
+    <string name="category_religious">Religious</string>
+
+    <string name="category_malls">Malls</string>
+
+    <string name="category_hotels">Hotels</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
